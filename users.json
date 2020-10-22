@@ -1,0 +1,55 @@
+{
+  "name": null,
+  "users": [
+    {
+      "id": 1,
+      "name": "Sergey",
+      "email": "Sergey@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Oleg",
+      "email": "Oleg@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Misha",
+      "email": "Misha@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Nikita",
+      "email": "Nikita@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Sasha",
+      "email": "Sasha@email.com"
+    },
+    {
+      "id": 6,
+      "name": "Petya",
+      "email": "Petya@email.com"
+    },
+    {
+      "id": 7,
+      "name": "Igor",
+      "email": "Igor@email.com"
+    },
+    {
+      "id": 8,
+      "name": "Anton",
+      "email": "Anton@email.com"
+    },
+    {
+      "id": 9,
+      "name": "Lesha",
+      "email": "Lesha@email.com"
+    },
+    {
+      "id": 10,
+      "name": "Evgeniy",
+      "email": "Evgeniy@email.com"
+    }
+  ]
+}
